@@ -12,3 +12,9 @@ this is the boiler plate code in java
 
 To compile the code -> javac [filaname]
 To run the compiled code -> java [filename]
+
+OUTPUT IN JAVA 
+
+System.out.print("hello") -> prinitng 
+System.out.println("hello") -> printing in new line 
+use \n to get a line space where ever required
