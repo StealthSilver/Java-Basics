@@ -2,7 +2,7 @@ FLOWCHARTS
 
 Diagrams to represent the solutions
 
-components of flowcharts 
+Components of flowcharts 
 
 1. Start / Exit -> Oval 
 2. Input / Output -> Parallogram 
