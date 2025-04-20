@@ -23,3 +23,5 @@ VARIABLES IN JAVA
 
 variables are named memory spaces which contain data that can be changes 
 the constants in java are literals
+
+* java is a type sensetive language so data type must be defined
