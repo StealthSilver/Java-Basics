@@ -21,3 +21,4 @@ use \n to get a line space where ever required
 
 VARIABLES IN JAVA 
 
+variables are named memory spaces which contain changable data
