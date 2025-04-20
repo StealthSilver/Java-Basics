@@ -1,3 +1,11 @@
 JAVA FILES 
 
 the java files are stored with the extention .java
+
+public class first {
+    public static void main(String args[]) {
+
+    }
+}
+
+this is the boiler plate code in java
