@@ -18,3 +18,6 @@ OUTPUT IN JAVA
 System.out.print("hello") -> prinitng 
 System.out.println("hello") -> printing in new line 
 use \n to get a line space where ever required
+
+VARIABLES IN JAVA 
+
