@@ -1,3 +1,11 @@
 FLOWCHARTS 
 
 Diagrams to represent the solutions
+
+components of flowcharts 
+
+1. Start / Exit -> Oval 
+2. Input / Output -> Parallogram 
+3. Process -> Rectangle
+4. Decision -> Rhombus
+5. Direction -> Arrow
