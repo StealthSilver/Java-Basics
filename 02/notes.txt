@@ -9,3 +9,6 @@ public class first {
 }
 
 this is the boiler plate code in java
+
+To compile the code -> javac [filaname]
+To run the compiled code -> java [filename]
