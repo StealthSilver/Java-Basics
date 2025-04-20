@@ -25,3 +25,24 @@ variables are named memory spaces which contain data that can be changes, variab
 the constants in java are literals
 
 * java is a type sensetive language so data type must be defined
+
+DATA TYPES IN JAVA 
+
+PRIMITIVE 
+
+1. byte 
+2. short
+3. char
+4. boolean 
+5. int 
+6. long 
+7. float 
+8. double 
+
+NON-PRIMITIVE 
+
+1. String 
+2. Array 
+3. Class 
+4. Object 
+5. Interface
