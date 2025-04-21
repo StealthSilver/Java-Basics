@@ -16,5 +16,14 @@ public class sixth {
         int n = 4;
         System.out.println(n);
 
+        long m = 341412412;
+        System.out.println(m);
+
+        double num = 42434;
+        System.out.println(num);
+
+        short o = 9;
+        System.out.println(o);
+
     }
 }
