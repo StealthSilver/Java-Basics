@@ -67,3 +67,11 @@ nextDouble
 nextBoolean
 nextShort
 nextLong
+
+TYPE CONVERSION 
+
+conversion can happen when 
+1. type compatible 
+2. destination type > source type 
+
+byte -> short -> int -> float -> long -> double
