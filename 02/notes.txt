@@ -77,3 +77,8 @@ conversion can happen when
 2. destination type > source type 
 
 byte -> short -> int -> float -> long -> double
+
+TYPE CASTING 
+
+this is the explicit conversion and this is done forcefully agains the compiler 
+this is the lossy conversion
