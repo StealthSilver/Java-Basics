@@ -53,3 +53,17 @@ COMMENTS IN JAVA
 
 /* for multiple 
 line comments */
+
+INPUT IN JAVA 
+
+for getting the input we make an object fromt he Scanner class 
+
+next
+nextLine
+nextInt
+nextByte
+nextFloat
+nextDouble
+nextBoolean
+nextShort
+nextLong
