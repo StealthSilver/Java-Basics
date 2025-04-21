@@ -26,6 +26,12 @@ the constants in java are literals
 
 * java is a type sensetive language so data type must be defined
 
+In Java, variable names (identifiers) can:
+
+Start with a letter (A–Z or a–z),
+a dollar sign $, or
+an underscore _.
+
 DATA TYPES IN JAVA 
 
 PRIMITIVE 
