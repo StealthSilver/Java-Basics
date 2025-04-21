@@ -70,6 +70,8 @@ nextLong
 
 TYPE CONVERSION 
 
+the java compiler itself converts several types of data, this is the implicit conversion and widening conversion
+
 conversion can happen when 
 1. type compatible 
 2. destination type > source type 
