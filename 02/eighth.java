@@ -8,8 +8,12 @@ public class eighth {
         // creating the new object from the scanner class
         Scanner sc = new Scanner(System.in);
 
-        // getting the input from the user
+        // getting the single input from the user
         String input = sc.next();
         System.out.println(input);
+
+        // to get the complete line as the input
+        String newInput = sc.nextLine();
+        System.out.println(newInput);
     }
 }
