@@ -7,3 +7,11 @@ operators are the symbols in JAVA which perform different opeartions
 3. Logical Operators 
 4. Bitwise Operators 
 5. Assignment operators
+
+ARTHEMATIC OPERATORS 
+
++ -> addition 
+- -> substraction
+* -> multiplication
+/ -> divvision
+% -> modulus
