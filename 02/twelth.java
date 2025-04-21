@@ -9,6 +9,6 @@ public class twelth {
         float rad = sc.nextFloat();
         float area = (float) (3.14 * rad * rad);
 
-        System.out.println("Area of the circle is" + area);
+        System.out.println("Area of the circle is " + area);
     }
 }
