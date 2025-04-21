@@ -47,3 +47,6 @@ NON-PRIMITIVE
 4. Object 
 5. Interface
 
+COMMENTS IN JAVA 
+
+// use this to write comments
