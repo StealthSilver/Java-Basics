@@ -30,14 +30,14 @@ DATA TYPES IN JAVA
 
 PRIMITIVE 
 
-1. byte 
-2. short
-3. char
-4. boolean 
-5. int 
-6. long 
-7. float 
-8. double 
+1. byte - 1 byte [-128 to 127]
+2. short - 2 bytes
+3. char - 2 bytes
+4. boolean - 1 byte
+5. int - 4 bytes
+6. long - 8 bytes
+7. float - 4 bytes
+8. double - 8 bytes
 
 NON-PRIMITIVE 
 
@@ -46,3 +46,4 @@ NON-PRIMITIVE
 3. Class 
 4. Object 
 5. Interface
+
