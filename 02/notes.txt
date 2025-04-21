@@ -34,7 +34,7 @@ PRIMITIVE
 2. short - 2 bytes
 3. char - 2 bytes
 4. boolean - 1 byte
-5. int - 4 bytes
+5. int - 4 bytes [-2B - 2B]
 6. long - 8 bytes
 7. float - 4 bytes
 8. double - 8 bytes
