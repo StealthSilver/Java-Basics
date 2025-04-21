@@ -50,3 +50,6 @@ NON-PRIMITIVE
 COMMENTS IN JAVA 
 
 // use this to write comments
+
+/* for multiple 
+line comments */
