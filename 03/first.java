@@ -6,5 +6,9 @@ public class first {
         int b = 9;
 
         System.out.println("Sum is " + (a + b));
+        System.out.println("Difference is " + (a - b));
+        System.out.println("Product is " + (a * b));
+        System.out.println("Division is " + (a / b));
+        System.out.println("Modulus is " + (a % b));
     }
 }
