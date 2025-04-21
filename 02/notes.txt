@@ -81,4 +81,4 @@ byte -> short -> int -> float -> long -> double
 TYPE CASTING 
 
 this is the explicit conversion and this is done forcefully agains the compiler 
-this is the lossy conversion
+this is the lossy conversion, this is the narrowing conversion
