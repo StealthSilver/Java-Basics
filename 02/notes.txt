@@ -87,3 +87,9 @@ TYPE PROMOTION
 
 1. java automatically promotes each byte, short, or char operand to int when evealuating the expression
 2. if one operand is long, float or double the whole expression is promoted to long, float or double respectively
+
+EXECUTION OF JAVA CODE 
+
+JDK : The JDK is a software development kit used to develop Java applications. It includes everything you need to write, compile, and run Java programs.
+JRE : The JRE is a runtime environment used to run Java applications. It does not include tools for development like a compiler.
+JVM : The JVM is the engine that runs Java bytecode. It is platform-independent, meaning Java code can run on any system that has a JVM.
