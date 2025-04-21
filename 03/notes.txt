@@ -10,8 +10,11 @@ operators are the symbols in JAVA which perform different opeartions
 
 ARTHEMATIC OPERATORS 
 
+BINARY ARTHEMATIC OPERATORS
 + -> addition 
 - -> substraction
 * -> multiplication
 / -> divvision
 % -> modulus
+
+UNARY ARTHEMATIC OPERATORS
