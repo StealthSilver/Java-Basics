@@ -1,4 +1,4 @@
-
+// sum of two numbers
 public class seventh {
     public static void main(String args[]) {
         int a = 23;
