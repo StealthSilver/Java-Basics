@@ -1,0 +1,9 @@
+OPERATIONS IN JAVA 
+
+operators are the symbols in JAVA which perform different opeartions 
+
+1. Arthematic operators 
+2. Relational operators
+3. Logical Operators 
+4. Bitwise Operators 
+5. Assignment operators
