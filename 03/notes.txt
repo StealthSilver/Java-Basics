@@ -38,3 +38,9 @@ RELATIONAL OPERATORS
 <= -> lesser than or equal to
 
 * = is the assignment operator 
+
+LOGICAL OPERATORS 
+
+&& -> logical AND 
+|| -> logical OR 
+! -> logical NOT
