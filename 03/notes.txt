@@ -67,3 +67,5 @@ equality , not equality
 ||
 ternary 
 assignment
+
+if any expression has operators with same precedence then they are executed left to right
