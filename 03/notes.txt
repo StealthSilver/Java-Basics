@@ -36,3 +36,5 @@ RELATIONAL OPERATORS
 < -> greater than
 >= -> greater than or equal to 
 <= -> lesser than or equal to
+
+* = is the assignment operator 
