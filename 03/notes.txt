@@ -37,10 +37,16 @@ RELATIONAL OPERATORS
 >= -> greater than or equal to 
 <= -> lesser than or equal to
 
-* = is the assignment operator 
-
 LOGICAL OPERATORS 
 
 && -> logical AND 
 || -> logical OR 
 ! -> logical NOT
+
+ASSIGNMENT OPERATORS
+
+= -> assigned to 
++= -> a = a + 10 
+-= -> a = a - 3 
+*= -> a = a * 8
+/= -> a = a / 4
