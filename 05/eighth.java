@@ -8,12 +8,13 @@ public class eighth {
 
         int num = sc.nextInt();
 
-        String reverse = "";
-
         while (num > 0) {
-            reverse += num % 10;
-            num = num % 10;
+
+            int lastDigit = num % 10;
+
+            System.out.print(lastDigit + " ");
+            num = num / 10;
         }
-        System.out.println(reverse);
+        System.out.println();
     }
 }
