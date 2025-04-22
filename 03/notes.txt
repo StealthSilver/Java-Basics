@@ -50,3 +50,20 @@ ASSIGNMENT OPERATORS
 -= -> a = a - 3 
 *= -> a = a * 8
 /= -> a = a / 4
+
+OPERATOR PRECEDENCE 
+
+post increment/decrement 
+pre increment/decrement 
+* , / , %
++ - 
+>> , << , <<< , >>>
+relational 
+equality , not equality
+& 
+^ 
+| 
+&&
+||
+ternary 
+assignment
