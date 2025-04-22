@@ -1,2 +1,9 @@
 CONDITIONAL STATEMENTS 
 
+if , else 
+
+else if 
+
+ternary operator 
+
+switch
