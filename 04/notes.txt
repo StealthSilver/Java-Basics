@@ -1,9 +1,9 @@
 CONDITIONAL STATEMENTS 
 
-if , else 
+1. if , else 
 
-else if 
+2. else if 
 
-ternary operator 
+3. ternary operator 
 
-switch
+4. switch
