@@ -21,3 +21,9 @@ UNARY ARTHEMATIC OPERATORS
 
 ++ -> increment operator (a = a + 1)
 -- -> decrement operator (a = a - 1)
+
+pre increment -> first the value is changed then it is used
+++ a 
+
+post increment -> first the value is used then it is changes
+a ++
