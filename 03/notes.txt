@@ -27,3 +27,12 @@ pre increment -> first the value is changed then it is used
 
 post increment -> first the value is used then it is changes
 a ++
+
+RELATIONAL OPERATORS
+
+== -> equal to
+!= -> not equal to 
+> -> lesser than 
+< -> greater than
+>= -> greater than or equal to 
+<= -> lesser than or equal to
