@@ -6,4 +6,4 @@ LOOPS
 
 break statement : to exit the loop 
 
-continue statement : 
+continue statement : to skip an iteration
