@@ -30,3 +30,8 @@ the part of memory used by the main function is called the stack frame, all the 
 
 the copy of the originbal variable is passed in java so the original value of the variable are not changes 
 call by refrence is possible in c++ not in java
+
+there are two kind of methods in java
+
+1. user defined method : defined by the user
+2. inbuilt method : provided by java 
