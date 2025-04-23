@@ -48,3 +48,18 @@ multiply(double a , dluble b)
 the overloaded functions do not depend on teh data type of the function byt he data type of the parameters involved 
 
 int sum(){} and float sum(){} they are the same functions
+
+BINARY TO DECIMAL 
+
+0 - 0
+1 - 01
+2 - 10
+3 - 11
+4 - 100
+5 - 101 
+6 - 110 
+7 - 111
+8 - 1000
+9 - 1001
+10 - 1010
+
