@@ -66,3 +66,11 @@ BINARY TO DECIMAL
 SCOPE 
 
 you cannot use variables before declaring them
+
+Block Scope : the variable declared inside the block {} can only be used inside the block 
+
+{
+    int a = 9;
+    
+}
+a = 5; -> this will give the error
