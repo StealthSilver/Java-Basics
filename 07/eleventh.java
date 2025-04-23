@@ -6,6 +6,11 @@ public class eleventh {
 
     public static boolean prime(int n) {
 
+        if (n <= 1) {
+            System.out.println("invalid input");
+            return false;
+        }
+
         if (n == 2) {
             return true;
         }
