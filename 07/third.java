@@ -1,4 +1,4 @@
-// call by value in java
+// swapping two variables
 
 public class third {
     public static void main(String args[]) {
