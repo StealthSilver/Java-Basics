@@ -1,2 +1,6 @@
 FUNCTIONS 
 
+returnType name(){
+    // body 
+    return statement;
+}
