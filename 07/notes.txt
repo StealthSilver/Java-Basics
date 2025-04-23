@@ -18,4 +18,10 @@ returnType(type param1 , type param2){
 }
 
 PARAMETERS -> they are the variables that are a part of the function definition 
+
 ARGUMENTS -> they are the variables that are used while calling the function
+
+EXECUTION OF FUNCTION 
+
+the functons take part of the call stack 
+the part of memory used by the main function is called the stack frame, all the other functions are stored on the top of the main function in the stack
