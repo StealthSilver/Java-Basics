@@ -1,5 +1,6 @@
 
 // sum of two numbers as a function 
+
 import java.util.*;
 
 public class second {
