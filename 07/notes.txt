@@ -39,3 +39,8 @@ there are two kind of methods in java
 FUNCTION OVERLOADING 
 
 mutliple functions with the same name but different parameters
+
+the paramets can be different by their data type or by the number of parameters
+multiply(int a , int b)
+multiply(flaot a , flaot b)
+multiply(double a , dluble b)
