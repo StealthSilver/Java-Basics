@@ -63,3 +63,6 @@ BINARY TO DECIMAL
 9 - 1001
 10 - 1010
 
+SCOPE 
+
+you cannot use variables before declaring them
