@@ -65,7 +65,7 @@ BINARY TO DECIMAL
 
 SCOPE 
 
-you cannot use variables before declaring them
+Method Scope : you cannot use variables before declaring them
 
 Block Scope : the variable declared inside the block {} can only be used inside the block 
 
@@ -74,3 +74,5 @@ Block Scope : the variable declared inside the block {} can only be used inside 
     
 }
 a = 5; -> this will give the error
+
+Class Scope : depend upon the access modifier of the class , Public , Private or Protected
