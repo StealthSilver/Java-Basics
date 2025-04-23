@@ -5,7 +5,7 @@ import java.util.*;
 
 public class second {
 
-    public static int Sum(int a, int b) {
+    public static int Sum(int a, int b) { // formal parameters
 
         return a + b;
     }
@@ -16,7 +16,7 @@ public class second {
         int x = sc.nextInt();
         int y = sc.nextInt();
 
-        int result = Sum(x, y);
+        int result = Sum(x, y); // arguments -> actual parameters
         System.out.println(result);
     }
 }

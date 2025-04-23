@@ -16,3 +16,6 @@ returnType(type param1 , type param2){
     // body 
     return statement;
 }
+
+PARAMETERS -> they are the variables that are a part of the function definition 
+ARGUMENTS -> they are the variables that are used while calling the function
