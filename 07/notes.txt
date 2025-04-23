@@ -34,4 +34,8 @@ call by refrence is possible in c++ not in java
 there are two kind of methods in java
 
 1. user defined method : defined by the user
-2. inbuilt method : provided by java 
+2. inbuilt method : provided by java e.g. sqrt() , max()
+
+FUNCTION OVERLOADING 
+
+mutliple functions with the same name but different parameters
