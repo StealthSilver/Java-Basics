@@ -1,0 +1,8 @@
+SORTING 
+
+Arranging in an order 
+
+1. Bubble Sort 
+2. Selection Sort 
+3. Insertion Sort 
+4. Counting Sort (Avanced)
