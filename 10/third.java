@@ -1,28 +1,26 @@
 // prefix sum -> Kadane's Algorithm
-// Time complexity
+// Time complexity -> O(n)
 
 public class third {
 
     public static int kadane(int[] numbers) {
+        int currSum = numbers[0];
+        int maxSum = numbers[0];
 
-        int currSum = 0;
-        int maxSum = Integer.MIN_VALUE;
+        for (int i = 1; i < numbers.length; i++) {
 
-        for (int i = 0; i < numbers.length; i++) {
-            currSum = currSum + numbers[i];
-            if (currSum < 0) {
-                currSum = 0;
-            }
-            maxSum = Math.max(currSum, maxSum);
-        }
+            currSum = Math.max(numbers[i], currSum + numbers[i]);
+            maxSum = Math.max(maxSum, currSum);
+        }s
 
         return maxSum;
     }
 
     public static void main(String args[]) {
-        int[] numbers = { 1, 2, -5, -6, 4, -3, 2, 6, 1 };
+
+        int[] numbers = { -2, -3, -1, -5 };
 
         int result = kadane(numbers);
-        System.out.println("the maximum sum is : " + result);
+        System.out.println("The maximum subarray sum is: " + result);
     }
 }
