@@ -9,11 +9,13 @@ public class eighth {
         while (start <= end) {
             int mid = (start + end) / 2;
 
+            // for really large arrays
+            // int mid = start + (end - start) / 2;
+
             // comparisions
             if (numbers[mid] == key) {
                 return mid;
-            }
-            if (numbers[mid] < key) {
+            } else if (numbers[mid] < key) {
                 start = mid + 1;
             } else {
                 end = mid - 1;
