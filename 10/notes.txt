@@ -1,0 +1,10 @@
+Trapping Rainwater (04.java)
+given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining
+
+Corner cases 
+
+1. min no. of bars > 2
+2. Assending or descending arrays will store 0 water 
+
+trapped water = (water level - height of bar) * width 
+water level = min(maxLeftBoundary , maxRightBoundary)
