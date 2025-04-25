@@ -25,7 +25,7 @@ public class first {
 
             }
         }
-        return currSum;
+        return maxSum;
 
     }
 
