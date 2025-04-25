@@ -9,6 +9,5 @@ Corner cases
 trapped water = (water level - height of bar) * width 
 water level = min(maxLeftBoundary , maxRightBoundary)
 
-
 to get the max and min boundries , we have to use auxillary arrays 
 auxillary arrays are the helper arrays that are used to solve a bigger problem
