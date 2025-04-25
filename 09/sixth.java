@@ -1,4 +1,4 @@
-// largest element in an array
+// largest element in an array O(n)
 
 import java.util.*;
 

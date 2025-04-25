@@ -15,3 +15,6 @@ arrays are passed by refrence in the function
 
 Linear search in array 
 > the time complexity - worst case O(n) as there are n operations
+
+Binary Search in array 
+> the binary search only works on sorted array, it can be incresing or decreasing

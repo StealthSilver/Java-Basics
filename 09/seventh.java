@@ -1,4 +1,4 @@
-// smallest value in array 
+// smallest value in array O(n)
 
 import java.util.*;
 
