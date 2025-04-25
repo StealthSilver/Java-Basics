@@ -1,4 +1,5 @@
-// reversing an array by creating a new array
+// reversing an array by creating a new array 
+// time - o(n) and space - o(n)
 
 public class ninth {
 
@@ -20,6 +21,8 @@ public class ninth {
 
         // Print reversed array
         System.out.print("Reversed Array: ");
+
+        // for num in reversed array
         for (int num : reversedArray) {
             System.out.print(num + " ");
         }
