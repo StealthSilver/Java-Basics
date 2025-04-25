@@ -11,7 +11,7 @@ public class third {
 
             currSum = Math.max(numbers[i], currSum + numbers[i]);
             maxSum = Math.max(maxSum, currSum);
-        }s
+        }
 
         return maxSum;
     }
