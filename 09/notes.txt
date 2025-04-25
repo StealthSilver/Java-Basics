@@ -1,0 +1,7 @@
+ARRAYS IN JAVA
+
+arrays are non-primitive data structures
+they are the list of elements of same type stored in a contiguous memory location 
+
+> arrays in JAVA follow zero based indexing 
+> the memory locations in array are contageous
