@@ -12,3 +12,5 @@ Bubble Sort
 {5,4,1,3,2} -> Unsorted 
 {1,2,3,4,5} -> Incrasing 
 {5,4,3,2,1} -> Decreasing
+
+to perfectly sort a n element array n-1 turns are needed
