@@ -1,6 +1,6 @@
 // max and min sum of all the subarrays
 
-public class SubarraySums {
+public class thirteenth {
 
     public static void subarraySums(int numbers[]) {
         int totalSubarrays = 0;
@@ -23,7 +23,6 @@ public class SubarraySums {
                     sum += numbers[k];
                 }
 
-                // Update max and min sum
                 if (sum > maxSum) {
                     maxSum = sum;
                 }
