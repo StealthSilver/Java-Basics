@@ -18,3 +18,7 @@ Linear search in array
 
 Binary Search in array 
 > the binary search only works on sorted array, it can be incresing or decreasing
+
+the time complexity of binary search is 
+
+iterations go down by n / 2^k -> k = logn
