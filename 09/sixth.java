@@ -20,6 +20,6 @@ public class sixth {
 
         int largest = max(numbers);
 
-        System.out.println("the largest number in array is" + largest);
+        System.out.println("the largest number in array is " + largest);
     }
 }
