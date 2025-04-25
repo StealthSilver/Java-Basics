@@ -1,4 +1,5 @@
-// maximum subarray sum
+// maximum subarray sum -> brute force
+// time comp -> O(n^3)
 
 import java.util.*;
 
@@ -30,7 +31,7 @@ public class first {
     }
 
     public static void main(String args[]) {
-        int[] number = { 1, 2, 3, 4, 5, 6, 7, 8 };
+        int[] number = { 1, -2, 6, -1, 3 };
 
         int result = subarray(number);
         System.out.println("the maximum subaraay sum is  " + result);
