@@ -1,6 +1,6 @@
 // print subarrays
 // total subarrays n * (n+1) / 2 
-// time O()
+// time O(n^3)
 
 public class twelth {
 
