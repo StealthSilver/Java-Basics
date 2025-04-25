@@ -12,8 +12,17 @@ public class second {
         marks[1] = sc.nextInt();
         marks[2] = sc.nextInt();
 
+        // this will return the address of the head of the array
         System.out.println(marks);
         System.out.println("Phy marks: " + marks[0]);
+        System.out.println("Chem marks: " + marks[1]);
+        System.out.println("Mat marks: " + marks[2]);
+
+        // updating
+
+        marks[2] = marks[2] + 1;
+        marks[1] = 43;
+
         System.out.println("Chem marks: " + marks[1]);
         System.out.println("Mat marks: " + marks[2]);
     }
