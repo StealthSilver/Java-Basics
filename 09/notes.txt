@@ -9,4 +9,4 @@ they are the list of elements of same type stored in a contiguous memory locatio
 array elements :    a , b , c 
 memeory addresses : 1001 , 1003 , 1005
 
-arrays are static, the memeory once defined cannot be changed
+arrays are static, the memeory once defined cannot be changed at the runtime
