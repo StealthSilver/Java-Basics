@@ -24,3 +24,5 @@ the time complexity of binary search is
 iterations go down by n / 2^k -> k = logn
 
 time taken by binary search < linear search
+
+Subarray -> a continuous part of array

@@ -1,5 +1,6 @@
 // pairs in an array
 // total pairs = n * (n-1) /  2 (sum of n-1 terms)
+// time -> O(n^2)
 
 public class eleventh {
 
