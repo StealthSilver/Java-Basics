@@ -6,5 +6,5 @@ they are the list of elements of same type stored in a contiguous memory locatio
 > arrays in JAVA follow zero based indexing 
 > the memory locations in array are contageous
 
-a , b , c 
-1001 , 1003 , 1005
+array elements :    a , b , c 
+memeory addresses : 1001 , 1003 , 1005
