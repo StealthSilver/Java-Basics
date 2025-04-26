@@ -7,7 +7,7 @@ Arranging in an order
 3. Insertion Sort 
 4. Counting Sort (Avanced)
 
-Bubble Sort 
+Bubble Sort (01.java)
 
 Bubble Sort is a simple sorting algorithm that repeatedly:
 1. Compares adjacent elements
@@ -22,7 +22,7 @@ This way, bigger elements "bubble up" to the end of the list after each full pas
 
 to perfectly sort a n element array n-1 turns are needed
 
-SELECTION SORT 
+SELECTION SORT (02.java)
 
 Pick the smallest(from the unsorted), put it at the begining
 
