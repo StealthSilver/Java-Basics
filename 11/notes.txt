@@ -25,3 +25,4 @@ to perfectly sort a n element array n-1 turns are needed
 SELECTION SORT 
 
 Pick the smallest(from the unsorted), put it at the begining
+
