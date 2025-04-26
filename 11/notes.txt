@@ -9,8 +9,19 @@ Arranging in an order
 
 Bubble Sort 
 
+Bubble Sort is a simple sorting algorithm that repeatedly:
+1. Compares adjacent elements
+2. Swaps them if they are in the wrong order
+
+This way, bigger elements "bubble up" to the end of the list after each full pass.
+
+
 {5,4,1,3,2} -> Unsorted 
 {1,2,3,4,5} -> Incrasing 
 {5,4,3,2,1} -> Decreasing
 
 to perfectly sort a n element array n-1 turns are needed
+
+SELECTION SORT 
+
+Pick the smallest(from the unsorted), put it at the begining
