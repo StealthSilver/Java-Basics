@@ -87,5 +87,9 @@ try to achieve the same functionality in many forms
 1. Compile time polymorphism (static)
 - method overloading
 
+multiple functions with same name but different parameters 
+
 2. run time polymorphism (dynamic)
 - method overriding
+
+parent and child class have same function with different daefinition
