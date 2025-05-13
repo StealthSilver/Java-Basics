@@ -43,6 +43,9 @@ by default java created construcors for the classes if we dont make them but the
 
 Types of constructors 
 
-1. non-parameterised 
-2. parameterized 
-3. copy constructor
+1. non-parameterised : with no parameter 
+2. parameterized : with parameter 
+
+we can create multiple constructors according to the knowledge 
+
+3. copy constructor 
