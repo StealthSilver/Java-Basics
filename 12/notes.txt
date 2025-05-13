@@ -67,4 +67,5 @@ special functions that remove the classes nce they are used, they are present in
 
 INHERITANCE 
 
-inheritance is when the properties and methods from of base class are passed on to a derived class 
+inheritance is when the properties and methods from of base / parent  class are passed on to a derived / child class 
+
