@@ -8,6 +8,10 @@ public class tenth {
         Chicken c = new Chicken();
         c.eat();
         c.walk();
+
+        // the constructors are called in an hierarchy animal -> horse -> mustang
+        Mustang m = new Mustang();
+
     }
 }
 
@@ -22,6 +26,10 @@ abstract class Animal {
 
     abstract void walk(); // no implementation of this method -> implementation will depend on the
                           // derived classes
+
+    Animal() {
+        System.out.println("animal constructor called");
+    }
 }
 
 class Horse extends Animal {
@@ -29,6 +37,16 @@ class Horse extends Animal {
         System.out.println("walks on four legs");
     }
 
+    Horse() {
+        System.out.println("horse constructor called");
+    }
+
+}
+
+class Mustang extends Horse {
+    Mustang() {
+        System.out.println("mustang constructor called");
+    }
 }
 
 class Chicken extends Animal {
