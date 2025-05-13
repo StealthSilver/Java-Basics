@@ -12,6 +12,14 @@ Access Modifiers
 Access Modifier        within class     within package       outside packageby subclass only        outside package
 
 Private                     Y                 N                            N                                N 
-Default                     Y                  Y                            N                               N 
-Protected                   Y                   Y                           Y                               N
-Public                      Y                   Y                           Y                               Y
+Default                     Y                 Y                            N                               N 
+Protected                   Y                 Y                            Y                               N
+Public                      Y                 Y                           Y                               Y
+
+
+GETTERS AND SETTERS
+
+get : to return the value 
+set: to modify the value 
+
+this : this keyword is used to refer to the current object 
