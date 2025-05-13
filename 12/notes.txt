@@ -103,3 +103,11 @@ user defined
 
 // on top of file
 package myPackage;
+
+
+ABSTRACTION 
+
+hiding all the necessary details and showing only the important parts to the user 
+
+- abstract classes 
+- interfaces 
