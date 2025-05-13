@@ -127,4 +127,7 @@ interface -> class -> object
 car -> alto -> alto 1 , alto 2 , alto 3
 
 
-its function is to implement multiple inheritance
+its function is to implement multiple inheritance and achieve total abstraction
+
+a -> child 
+b -> 
