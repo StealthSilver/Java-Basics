@@ -28,3 +28,13 @@ this : this keyword is used to refer to the current object
 ENCAPTULATION 
 
 encaptulation is defined as the wrapping up of data & methods under a single unit. It also implements data hiding
+
+
+CONSTRUCTORS 
+
+constructor is a special method which is invoked automatically at the time of object creation 
+
+1. constructors have hte same name as class or structure 
+2. constructors dont have a return type 
+3. constructors can only be called once 
+4. memeory allocation happens when the constructor is callled
