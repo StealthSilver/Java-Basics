@@ -41,7 +41,7 @@ class Pen {
         this.color = newColor;
     }
 
-    void setTip(int newTip) {
+    void setTip(int tip) {
         this.tip = tip;
     }
 }

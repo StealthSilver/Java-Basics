@@ -23,3 +23,8 @@ get : to return the value
 set: to modify the value 
 
 this : this keyword is used to refer to the current object 
+
+
+ENCAPTULATION 
+
+encaptulation is defined as the wrapping up of data & methods under a single unit. It also implements data hiding
