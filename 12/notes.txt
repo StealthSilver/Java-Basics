@@ -167,3 +167,7 @@ if all teh object s from the calss have a common variablke or method it is given
  -nested classes
 
  they all can be given static keyword
+
+ static objects are created only once in memory and once changed they change at all the places
+
+ main function is static so that there is only one main function for the base class
