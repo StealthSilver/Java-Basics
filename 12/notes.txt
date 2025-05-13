@@ -3,6 +3,7 @@ OOPS -> Object Oriented Programming
 oops is a sytle of writing code 
 
 Classes -> groups / blueprints of the enteties 
+classes have attributes (properties) and functions (behaviours)
 
 Objects -> enteties in the real world 
 
