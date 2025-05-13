@@ -71,3 +71,10 @@ inheritance is when the properties and methods from of base / parent  class are 
 
 single level inheritance : base class -> derived class 
 multi level inheritence : base class -> derived class -> derived class 
+
+hierarchial inheritance : base class -> derived class  (single base , multiple derived)
+                                     -> derived class
+
+hybrid inheritance : combination of everything
+
+in C++ there is multiple inheritance, two parent classes extend a single derived class, in java done with interfaces
