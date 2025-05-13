@@ -69,3 +69,5 @@ INHERITANCE
 
 inheritance is when the properties and methods from of base / parent  class are passed on to a derived / child class 
 
+single level inheritance : base class -> derived class 
+multi level inheritence : base class -> derived class -> derived class 
