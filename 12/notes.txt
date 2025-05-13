@@ -7,3 +7,11 @@ classes have attributes (properties) and functions (behaviours)
 
 Objects -> enteties in the real world 
 
+Access Modifiers 
+
+Access Modifier        within class     within package       outside packageby subclass only        outside package
+
+Private                     Y                 N                            N                                N 
+Default                     Y                  Y                            N                               N 
+Protected                   Y                   Y                           Y                               N
+Public                      Y                   Y                           Y                               Y
