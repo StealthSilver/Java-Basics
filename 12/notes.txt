@@ -96,3 +96,10 @@ parent and child class have same function with different daefinition
 
 PACKAGES IN java
 package is a group of similar type of classes, interfaces and sub-classes
+
+in built -> java.util.* 
+
+user defined 
+
+// on top of file
+package myPackage;
