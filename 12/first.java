@@ -9,11 +9,11 @@ public class first {
                             // it space in the memory and the constructor function pen()
 
         p1.setColor("Blue");
-        System.out.println(p1.color);
+        System.out.println(p1.getColor());
         p1.setTip(5);
-        System.out.println(p1.tip);
-        p1.color = "Yellow";
-        System.out.println(p1.color);
+        System.out.println(p1.getTip());
+        p1.setColor("Yellow");
+        System.out.println(p1.getColor());
 
         BankAccount myAcc = new BankAccount();
         myAcc.username = "pogo";
@@ -24,15 +24,25 @@ public class first {
 class Pen {
     // properties and functions
 
-    String color;
-    int tip;
+    private String color;
+    private int tip;
 
+    // getters
+    String getColor() {
+        return this.color;
+    }
+
+    int getTip() {
+        return this.tip;
+    }
+
+    // setters
     void setColor(String newColor) {
-        color = newColor;
+        this.color = newColor;
     }
 
     void setTip(int newTip) {
-        tip = newTip;
+        this.tip = tip;
     }
 }
 
