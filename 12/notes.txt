@@ -84,8 +84,8 @@ POLYMORPHISM
 
 try to achieve the same functionality in many forms 
 
-1. Compile time polymorphism 
+1. Compile time polymorphism (static)
 - method overloading
 
-2. run time polymorphism
+2. run time polymorphism (dynamic)
 - method overriding
