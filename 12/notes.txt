@@ -61,3 +61,5 @@ deep -> actual copy
 * search lazy copy 
 
 DESTRUCTORS 
+
+special functions that remove the classes nce they are used, they are present in c++ , in java garbage collectors does all this
