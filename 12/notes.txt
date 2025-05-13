@@ -117,3 +117,14 @@ Abstract clsses
 - cannot create an instance (object) of abstract class 
 - can have abstract / non - abstract methods 
  - can have constructors
+
+INTERFACE 
+
+interface is the blueprint of the class 
+
+
+interface -> class -> object
+car -> alto -> alto 1 , alto 2 , alto 3
+
+
+its function is to implement multiple inheritance
