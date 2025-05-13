@@ -14,11 +14,14 @@ public class tenth {
 // abstract class
 
 abstract class Animal {
+
+    // cannot create the object of this class but can create constructors
     void eat() {
         System.out.println("animal eats");
     }
 
-    abstract void walk(); // no implementation of this method
+    abstract void walk(); // no implementation of this method -> implementation will depend on the
+                          // derived classes
 }
 
 class Horse extends Animal {
