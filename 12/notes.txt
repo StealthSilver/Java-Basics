@@ -131,3 +131,9 @@ its function is to implement multiple inheritance and achieve total abstraction
 
 a -> child 
 b -> 
+
+- defined with the interface keyword 
+- inherited with implements 
+- all methods in interface are public , abstract and without implementation 
+- used to achieve total abstraction 
+- variables in the interface are final, public and static 
