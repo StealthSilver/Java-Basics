@@ -8,6 +8,12 @@ public class first {
         Pen p1 = new Pen(); // created a pen object named p1 in the memory with the new keyword which gives
                             // it space in the memory and the constructor function pen()
 
+        p1.setColor("Blue");
+        System.out.println(p1.color);
+        p1.setTip(5);
+        System.out.println(p1.tip);
+        p1.color = "Yellow";
+        System.out.println(p1.color);
     }
 }
 
