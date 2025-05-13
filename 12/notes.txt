@@ -35,6 +35,8 @@ CONSTRUCTORS
 constructor is a special method which is invoked automatically at the time of object creation 
 
 1. constructors have hte same name as class or structure 
-2. constructors dont have a return type 
+2. constructors dont have a return type (not even void)
 3. constructors can only be called once 
 4. memeory allocation happens when the constructor is callled
+
+y default java created construcors for the classes if we dont make them but they can't be initialized
