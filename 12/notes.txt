@@ -78,3 +78,14 @@ hierarchial inheritance : base class -> derived class  (single base , multiple d
 hybrid inheritance : combination of everything
 
 in C++ there is multiple inheritance, two parent classes extend a single derived class, in java done with interfaces
+
+
+POLYMORPHISM 
+
+try to achieve the same functionality in many forms 
+
+1. Compile time polymorphism 
+- method overloading
+
+2. run time polymorphism
+- method overriding
