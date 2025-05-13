@@ -152,5 +152,18 @@ interface Carnivores {
 }
 
 class Bear implements Herbivores, Carnivores{
-    
+
 }
+
+
+STATIC KEYWORD 
+
+static keyword in java is used to share the same variable or method of a given class
+if all teh object s from the calss have a common variablke or method it is givent he static keyword
+
+- properties 
+- functions 
+ -block 
+ -nested classes
+
+ they all can be given static keyword
