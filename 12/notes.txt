@@ -9,6 +9,8 @@ Objects -> enteties in the real world
 
 Access Modifiers 
 
+// if no access modifier is defined then it is of default type
+
 Access Modifier        within class     within package       outside packageby subclass only        outside package
 
 Private                     Y                 N                            N                                N 
@@ -137,3 +139,18 @@ b ->
 - all methods in interface are public , abstract and without implementation 
 - used to achieve total abstraction 
 - variables in the interface are final, public and static 
+
+
+multiple inheritance 
+
+interface Herbivores{
+
+}
+
+interface Carnivores {
+
+}
+
+class Bear implements Herbivores, Carnivores{
+    
+}
