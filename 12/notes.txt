@@ -107,7 +107,7 @@ package myPackage;
 
 ABSTRACTION 
 
-hiding all the necessary details and showing only the important parts to the user 
+hiding all the necessary details and showing only the important parts to the user , idea is given and implementation is not given
 
 - abstract classes 
 - interfaces 
