@@ -111,3 +111,9 @@ hiding all the necessary details and showing only the important parts to the use
 
 - abstract classes 
 - interfaces 
+
+Abstract clsses 
+
+- cannot create an instance (object) of abstract class 
+- can have abstract / non - abstract methods 
+ - can have constructors
