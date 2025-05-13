@@ -48,6 +48,7 @@ Types of constructors
 
 we can create multiple constructors according to the knowledge 
 
-3. copy constructor 
-
 construcors overloading : this is the phenomenon by which objects automatically call the required constructors from all the overloaded construcorswe have created according to the parameters -> this is also called polymorphism
+
+3. copy constructor : by default in C ++ 
+transferring all the properties of object 1 in object 2, so object2. =copy of object 1
