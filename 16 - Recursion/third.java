@@ -1,4 +1,5 @@
-
+// factorial of n 
+// time -> O(n) , space -> O(n)
 public class third {
 
     public static int fact(int n) {
