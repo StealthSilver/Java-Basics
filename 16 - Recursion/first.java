@@ -8,7 +8,7 @@ public class first {
         }
 
         System.out.println(n + " ");
-        ;
+
         printDec(n - 1);
     }
 
