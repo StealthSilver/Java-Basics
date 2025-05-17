@@ -1,3 +1,5 @@
 RECURSION
 
 this is present in all the programming languages
+
+* everything that can be done through iteration can be done using recursion and vice - versa
