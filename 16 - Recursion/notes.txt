@@ -11,3 +11,5 @@ firstly we come from top to down towards the base case and tehn we return from b
 
 main -> fun -> fun -> fun -> fun -> main 
         val <- val <-  val <- val <- val
+
+Call stack -> 
