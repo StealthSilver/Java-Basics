@@ -16,6 +16,8 @@ Call stack -> main function stores at the bottom
 then subsequent function calls are made
 when we reach the base case then teh function returns and all the function calls in the stack are removed from top to bottom
 
+every function call in call stack is called call frame
+
 
 Stack Overflow -> there are two situations for stack overflow 
 stack overflow happens if there is no base case
