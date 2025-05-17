@@ -179,3 +179,5 @@ if all teh object s from the calss have a common variablke or method it is given
  - to access parent's properties 
  - to access parent's functions 
  - to access parent's constructors
+
+ * rad constructor chaining
