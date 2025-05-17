@@ -18,6 +18,8 @@ when we reach the base case then teh function returns and all the function calls
 
 
 Stack Overflow -> there are two situations for stack overflow 
+stack overflow happens if there is no base case
 
 1. if parameters take too much memory
 2. if there are too many function calls
+
