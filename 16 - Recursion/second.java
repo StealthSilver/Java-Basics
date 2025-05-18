@@ -1,4 +1,5 @@
 // print num 1 - n , increasing order
+
 public class second {
 
     public static void printInc(int n) {
