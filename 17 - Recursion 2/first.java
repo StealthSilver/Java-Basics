@@ -3,7 +3,7 @@
 
 public class first {
     public static void main(String args[]) {
-
+        System.out.println(tilingProblem(5));
     }
 
     public static int tilingProblem(int n) {
@@ -18,5 +18,8 @@ public class first {
 
         // horizontal choice
         int fnm2 = tilingProblem(n - 2);
+
+        int totWays = fnm1 + fnm2;
+        return totWays;
     }
 }
