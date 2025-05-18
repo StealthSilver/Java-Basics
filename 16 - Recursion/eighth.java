@@ -1,4 +1,7 @@
 // find the last occourance of an element in an array
+// time complexity O(n)
+// space complexity O(n)
+
 public class eighth {
     public static void main(String[] args) {
         int[] arr = { 2, 3, 4, 5, 6, 7 };
