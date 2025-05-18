@@ -3,19 +3,25 @@
 
 public class tenth {
     public static void main(String[] args) {
-        int x = 2;
+        int a = 2;
         int n = 10;
-        System.out.println(opPower(int x, int n));
+        System.out.println(opPower(a, n));
     }
 
     public static int opPower(int a, int n) {
-        int halfPowerSq = opPower(a, n / 2) * opPower(a, n / 2);
-
-        // n is odd
-        if (n % 2 != 0) {
-            halfPowerSq = a * halfPowerSq;
+        // Base case: anything power 0 is 1
+        if (n == 0) {
+            return 1;
         }
 
-        return halfPowerSq;
+        int halfPower = opPower(a, n / 2);
+        int result = halfPower * halfPower;
+
+        // If n is odd, multiply once more by a
+        if (n % 2 != 0) {
+            result *= a;
+        }
+
+        return result;
     }
 }
