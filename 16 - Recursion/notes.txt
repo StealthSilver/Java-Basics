@@ -32,3 +32,4 @@ recursive equation
 fib n  = fib n-1 + fib n-2
 
 if there are two or more simontaneous recursive calls then a tree is formed 
+it generally gives exponential time complexity we reduce it using Dynamic Programming
