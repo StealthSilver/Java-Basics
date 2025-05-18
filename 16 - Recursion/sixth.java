@@ -1,7 +1,7 @@
 // check is the array is sorted or not
 public class sixth {
     public static void main(String[] args) {
-        int arr[] = { 1, 2, 3, 4, 5 };
+        int arr[] = { 1, 28, 3, 4, 5 };
         System.out.println(isSorted(arr, 0));
     }
 
