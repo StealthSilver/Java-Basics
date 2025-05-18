@@ -2,7 +2,7 @@
 
 public class fifth {
     public static void main(String[] args) {
-        int n = 5;
+        int n = 24;
         System.out.println(fib(n));
     }
 
