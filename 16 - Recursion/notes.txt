@@ -25,3 +25,8 @@ stack overflow happens if there is no base case
 1. if parameters take too much memory
 2. if there are too many function calls
 
+FIbonacci -> 
+
+recursive equation 
+
+fib n  = fib n-1 + fib n-2
