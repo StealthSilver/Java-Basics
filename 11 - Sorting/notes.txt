@@ -7,7 +7,7 @@ Arranging in an order
 3. Insertion Sort 
 4. Counting Sort (Avanced)
 
-Bubble Sort (01.java)
+BUBBLE SORT (01.java)
 
 Bubble Sort is a simple sorting algorithm that repeatedly:
 1. Compares adjacent elements
