@@ -1,5 +1,6 @@
 // nth fibonacci number 
-// time complexity
+// time complexity -> O(2^n) -> exponential 
+// space complexity -> O(n) as the height of tree is n
 
 public class fifth {
     public static void main(String[] args) {
