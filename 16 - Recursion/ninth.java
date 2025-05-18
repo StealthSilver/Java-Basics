@@ -1,4 +1,5 @@
 // print x to the power n
+// time complexity O()
 public class ninth {
     public static void main(String[] args) {
         int x = 2;
