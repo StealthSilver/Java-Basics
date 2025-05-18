@@ -16,7 +16,7 @@ public class seventh {
             return i;
         }
 
-        return firstOcc(arr, key, i+1)
+        return firstOcc(arr, key, i + 1);
 
     }
 }
