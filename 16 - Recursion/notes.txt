@@ -5,7 +5,7 @@ this is present in all the programming languages
 * everything that can be done through iteration can be done using recursion and vice - versa
 
 Recursion is a method of solving a computational problem where the solution depends on the solution to a smaller instance of the same problem
-there is always a base case in recursion, here we know the value
+there is always a base case in recursion, we always know the value for the base case
 
 firstly we come from top to down towards the base case and tehn we return from bottom to up
 
