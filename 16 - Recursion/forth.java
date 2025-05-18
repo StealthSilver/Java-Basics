@@ -1,3 +1,4 @@
+// sum of numbers upto n
 
 public class forth {
     public static void main(String args[]) {
