@@ -144,3 +144,6 @@ static int sum(int n){
     }
     return n + sum(n-1);
 }
+
+time = n * k = O(n)
+space = n * k = O(n)
