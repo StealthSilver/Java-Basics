@@ -30,3 +30,12 @@ there are no unnecessary swaps, smallest is found and then taken to the front of
 INSERTION SORT (03.java)
 
 pick an element from the unsrted part and place it in the right position in the sorted part 
+
+INBUILT SORT 
+
+there are inbuilt functions in java for sorting
+
+import java.util.Array;
+Array.sort(arr)
+
+Array.sort(arr , si , ei)
