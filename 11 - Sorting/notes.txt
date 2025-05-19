@@ -51,3 +51,4 @@ Array.sort(arr , Collection.reverseOrder())
 under the hood java uses a comparator where values are compared
 
 COUNTING SORT (sixth.java);
+used when the values are not high 
