@@ -14,3 +14,13 @@ mid = si + (ei - si) / 2
 3. to merge the left and right parts
 
 the first step is the division step
+
+* merge sort is a depth first search algo
+
+QUICK SORT (second.java)
+
+av case time complexity -> O(nlogn)
+worst case time complexity -> O(n^2)
+
+space complexity -> O(1)
+

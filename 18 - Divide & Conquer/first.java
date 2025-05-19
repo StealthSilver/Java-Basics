@@ -1,5 +1,6 @@
 // merge sort 
-// time complexity (nlogn)
+// time complexity O(nlogn)
+// space complexity O(n)
 
 public class first {
 
