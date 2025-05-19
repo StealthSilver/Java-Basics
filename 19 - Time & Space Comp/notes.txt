@@ -134,3 +134,4 @@ e.g. public static int fact(int n){
 work done = no of calls * work in each call 
             n * k
 time = O(n)
+space = depth(height of call stack) * memory for level = n * k -> O(n)
