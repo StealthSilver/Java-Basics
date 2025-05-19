@@ -135,3 +135,12 @@ work done = no of calls * work in each call
             n * k
 time = O(n)
 space = depth(height of call stack) * memory for level = n * k -> O(n)
+
+Sum of n no. 
+
+static int sum(int n){
+    if(n==0){
+        return 0;
+    }
+    return n + sum(n-1);
+}
