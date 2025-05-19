@@ -22,3 +22,7 @@ we always try to find thes worst case time
 
 Big O Notation 
 this gives the worst case or the upper bound
+
+if time => an ^2 + bn + c 
+ignore constants, take largest term
+time = f(n^2)
