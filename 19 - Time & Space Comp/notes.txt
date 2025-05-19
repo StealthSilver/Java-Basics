@@ -108,3 +108,12 @@ Binary Search ->
 n -> n/2 -> n/4 -> n/8 ... 1 
 n / 2^k = 1 
 O(logn)
+
+T(n) = k + T(n/2)
+T(n/2) = k + T(n/4)
+T(n/4) = k + T(n/8) ....
+
+adding all the terms 
+
+T(n)  = k*logn 
+O(n) = logn
