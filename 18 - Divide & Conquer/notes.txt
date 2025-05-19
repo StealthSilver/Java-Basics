@@ -1,3 +1,6 @@
 DIVIDE AND CONQUER 
 
 dividing a big problem into smaller parts and then solving them one by one
+
+MERGE SORT (first.java)
+
