@@ -29,3 +29,7 @@ time = f(n^2), therefore time complexity O(n^2)
 
 if time => an^3 + blogn + c
 Time => O(n^3)
+
+f(n) = O(g(n))
+
+lim n -> infinity |f(n)| / g(n) < infinity
