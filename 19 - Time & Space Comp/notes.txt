@@ -25,4 +25,5 @@ this gives the worst case or the upper bound
 
 if time => an ^2 + bn + c 
 ignore constants, take largest term
-time = f(n^2)
+time = f(n^2), therefore time complexity O(n^2)
+
