@@ -24,5 +24,6 @@ to perfectly sort a n element array n-1 turns are needed
 
 SELECTION SORT (02.java)
 
-Pick the smallest(from the unsorted), put it at the begining
+Pick the smallest(from the unsorted), put it at the begining.
+there are no unnecessary swaps, smallest is found and then taken to the front of the array
 
