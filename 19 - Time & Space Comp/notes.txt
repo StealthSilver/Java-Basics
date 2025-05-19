@@ -18,3 +18,7 @@ time = function(input size)
 7. Factorial O(n!)
 
 there are two ways to calculate time complexities : experimental , theorotical
+we always try to find the worst case time
+
+Big O Notation 
+
