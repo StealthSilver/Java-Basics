@@ -162,3 +162,6 @@ static int fib(int n){
 f(n) = f(n-1) + f(n-2); -> recurrence relation 
 
 T(n) = T(n-1) + T(n-2) + k
+
+level = n 
+total calls ->2^n
