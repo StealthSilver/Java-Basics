@@ -4,3 +4,4 @@ dividing a big problem into smaller parts and then solving them one by one
 
 MERGE SORT (first.java)
 
+1. divide the array around the mid
