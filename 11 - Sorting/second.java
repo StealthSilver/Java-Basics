@@ -1,4 +1,5 @@
 // Selection Sort 
+// time complexity O(n^2)
 
 public class second {
 
