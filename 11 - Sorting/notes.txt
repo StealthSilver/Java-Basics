@@ -51,6 +51,7 @@ Array.sort(arr , Collection.reverseOrder())
 under the hood java uses a comparator where values are compared
 
 COUNTING SORT (sixth.java);
-used when the values are not high 
+
+used when the values(range) are not high also generally values are positive
 
 we calculate the frequency of every value and then start entering the numebrs with their value
