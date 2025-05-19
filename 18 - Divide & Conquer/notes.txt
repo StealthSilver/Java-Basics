@@ -32,4 +32,4 @@ pivot and partition approch
 
 worst case in quick sort occours when the pivot is always the smallest or the largest element
 
-third.java -> using modified binary search
+third.java -> using modified binary search 
