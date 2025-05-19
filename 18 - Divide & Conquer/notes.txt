@@ -4,4 +4,9 @@ dividing a big problem into smaller parts and then solving them one by one
 
 MERGE SORT (first.java)
 
-1. divide the array around the mid
+1. divide the array around the mid until we get the already sorted base array
+mid = (si + ei) / 2 
+mid = si + (ei - si) / 2
+
+2. mergeSort(left)
+   mergeSort(right)
