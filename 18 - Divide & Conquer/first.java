@@ -22,20 +22,33 @@ public class first {
 
     public static void merge(int arr[], int si, int mid, int ei) {
         int temp[] = new int[ei - si + 1];
-        int i = si; // for left part
-        int j = mid + 1; // for right part
-        int k = 0; // for temp arr
+        int i = si; // iterator for left part
+        int j = mid + 1; // iterator for right part
+        int k = 0; // iterator for temp arr
 
         while (i <= mid && j <= ei) {
             if (arr[i] < arr[j]) {
                 temp[k] = arr[i];
                 i++;
-                k++;
+
             } else {
                 temp[k] = arr[j];
                 j++;
-                k++;
+
             }
+            k++;
+        }
+
+        // for the remaining elements
+
+        // left
+        while (i <= mid) {
+            temp[k++] = arr[i++];
+        }
+
+        // right
+        while (j <= ei) {
+            temp[k++] = arr[j++];
         }
     }
 
