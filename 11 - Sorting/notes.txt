@@ -31,7 +31,7 @@ INSERTION SORT (03.java)
 
 pick an element from the unsrted part and place it in the right position in the sorted part 
 
-INBUILT SORT 
+INBUILT SORT (04.java)
 
 there are inbuilt functions in java for sorting
 
@@ -39,3 +39,5 @@ import java.util.Array;
 Array.sort(arr)
 
 Array.sort(arr , si , ei)
+
+the time complexity is O(nlogn)
