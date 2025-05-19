@@ -5,3 +5,13 @@ the time and space are calculated with respect to the input size
 order complexity analysis : parameters : tima and space 
 
 time complexity : amount of time taken by an algorithm wrt the input size, this is not the actual time taken
+
+there can be different time complexities:
+
+1. Constant
+2. Log
+3. Linear
+4. Linear * Log
+5. Quadratic
+6. Exponential
+7. Factorial
