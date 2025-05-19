@@ -172,3 +172,5 @@ space -> O(n)
 * read about golden ration in fibonacci 
 
 Merge Sort 
+
+two calls -> left & right and then merging
