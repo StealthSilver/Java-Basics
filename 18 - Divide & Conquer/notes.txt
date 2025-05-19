@@ -10,3 +10,5 @@ mid = si + (ei - si) / 2
 
 2. mergeSort(left)
    mergeSort(right)
+
+3. to merge the left and right parts
