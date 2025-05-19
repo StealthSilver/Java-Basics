@@ -28,3 +28,4 @@ pivot and partition approch
 
 1. chose a pivot -> random , median , first , last
 2. partititon -> dividing the array in parts around the pivot
+3. calling quick sort for left part and right part, reach the base case
