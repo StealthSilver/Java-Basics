@@ -52,3 +52,5 @@ under the hood java uses a comparator where values are compared
 
 COUNTING SORT (sixth.java);
 used when the values are not high 
+
+we calculate the frequency of every value and then start entering the numebrs with their value
