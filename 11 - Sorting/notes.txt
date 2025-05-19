@@ -42,3 +42,8 @@ we can also pass the custom starting and ending index to get partial sorting
 Array.sort(arr , si , ei)
 
 the time complexity is O(nlogn)
+
+to get the array sorted in reverse order 
+
+import java.util.Collections
+Array.sort(arr , Collection.reverseOrder())
