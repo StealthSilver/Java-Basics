@@ -126,7 +126,11 @@ Space complexity = (max depth * memory in each call)
 
 e.g. public static int fact(int n){
     if(n==0){
-        return 1;
+        return 1; -> k
     }
     return n * fact (n-1)
 }
+
+work done = no of calls * work in each call 
+            n * k
+time = O(n)
