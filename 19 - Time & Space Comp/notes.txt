@@ -123,3 +123,10 @@ Recursive complexity analysis : two types : 1. linear , 2. D&C
 Total work done = (no of calls * work in each call)
 Recurrence Equation 
 Space complexity = (max depth * memory in each call)
+
+e.g. public static int fact(int n){
+    if(n==0){
+        return 1;
+    }
+    return n * fact (n-1)
+}
