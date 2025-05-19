@@ -101,3 +101,10 @@ Bubble sort : k(n + n-1 + n-2 ...) -> o(n^2)
 
 modified bubble sort -> worst case O(n^2)
                         best case -> O(n)
+
+
+Binary Search ->
+
+n -> n/2 -> n/4 -> n/8 ... 1 
+n / 2^k = 1 
+O(logn)
