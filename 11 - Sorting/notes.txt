@@ -35,9 +35,10 @@ INBUILT SORT (04.java)
 
 there are inbuilt functions in java for sorting
 
-import java.util.Array;
+import java.util.Arrays;
 Array.sort(arr)
 
+we can also pass the custom starting and ending index to get partial sorting
 Array.sort(arr , si , ei)
 
 the time complexity is O(nlogn)
