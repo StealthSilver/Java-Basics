@@ -43,7 +43,11 @@ Array.sort(arr , si , ei)
 
 the time complexity is O(nlogn)
 
-to get the array sorted in reverse order 
+to get the array sorted in reverse order (fifth.java)
 
 import java.util.Collections
 Array.sort(arr , Collection.reverseOrder())
+
+under the hood java uses a comparator where values are compared
+
+COUNTING SORT (sixth.java);
