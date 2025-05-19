@@ -165,3 +165,10 @@ T(n) = T(n-1) + T(n-2) + k
 
 level = n 
 total calls ->2^n
+
+time -> O(2^n)
+space -> O(n)
+
+* read about golden ration in fibonacci 
+
+Merge Sort 
