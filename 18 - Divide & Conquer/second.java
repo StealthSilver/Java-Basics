@@ -5,25 +5,20 @@
 public class second {
 
     public static void quickSort(int arr[], int si, int ei) {
-
-        // base case
         if (si >= ei) {
             return;
         }
 
-        // pivot -> last element
-
         int pidx = partition(arr, si, ei);
         quickSort(arr, si, pidx - 1); // left
-        quickSort(arr, pidx + 1, ei);// right
-
+        quickSort(arr, pidx + 1, ei); // right
     }
 
     public static int partition(int arr[], int si, int ei) {
         int pivot = arr[ei];
-        int i = si - 1; // to make place for elements smaller then the pivot
+        int i = si - 1;
 
-        for (int j = 0; i < ei; j++) {
+        for (int j = si; j < ei; j++) {
             if (arr[j] <= pivot) {
                 i++;
                 // swap
@@ -33,10 +28,11 @@ public class second {
             }
         }
 
+        // place pivot at the correct position
         i++;
-        int temp = pivot;
-        arr[ei] = arr[i];
-        arr[i] = temp;
+        int temp = arr[i];
+        arr[i] = arr[ei];
+        arr[ei] = temp;
 
         return i;
     }
