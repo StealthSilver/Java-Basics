@@ -7,11 +7,12 @@ order complexity analysis : parameters : tima and space
 time complexity : amount of time taken by an algorithm wrt the input size, this is not the actual time taken
 
 there can be different time complexities:
+time = function(input size)
 
-1. Constant
-2. Log
-3. Linear
-4. Linear * Log
-5. Quadratic
-6. Exponential
-7. Factorial
+1. Constant O(1)
+2. Log O (logn)
+3. Linear O (n)
+4. Linear * Log O(nlogn)
+5. Quadratic O(n^2)
+6. Exponential O(2^n)
+7. Factorial O(n!)
