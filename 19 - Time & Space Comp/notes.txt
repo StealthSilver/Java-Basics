@@ -20,6 +20,8 @@ time = function(input size)
 there are two ways to calculate time complexities : experimental , theorotical
 we always try to find thes worst case time
 
+* Cormenn book 
+
 Big O Notation 
 this gives the worst case or the upper bound
 
@@ -33,3 +35,11 @@ Time => O(n^3)
 f(n) = O(g(n))
 
 lim n -> infinity |f(n)| / g(n) < infinity
+
+Big omega Notation
+
+this represents the best case time and the lower bound 
+
+Theta Notation
+
+this represents the average time of all the inputs for the algorithm 
