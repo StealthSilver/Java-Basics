@@ -51,3 +51,25 @@ SPACE COMPLEXITY
 memory space -> heap(objects, variables, arrays) and stack (function calls) 
 
 input space + auxiliary space (temperory variables, arrays rewuired for the algoithms)  
+
+
+Loop analysis 
+
+for(int i=0; i<n; i++){
+    // some constant work k 
+}
+
+for a simple loop we check the number of operations 
+O(n * k) -> O(n)
+
+
+nested loop 
+
+for(int i=0; <n; i++){
+    for(int j=i+1; j<n; j++){
+        // some constant work k
+    }
+}
+
+O(n * n * k) -> O(n^2)
+
