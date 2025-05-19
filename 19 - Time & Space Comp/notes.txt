@@ -1,3 +1,7 @@
 TIME AND SPACE COMPLEXITY
 
 the time and space are calculated with respect to the input size
+
+order complexity analysis : parameters : tima and space 
+
+time complexity : amount of time taken by an algorithm wrt the input size, this is not the actual time taken
