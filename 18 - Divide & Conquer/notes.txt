@@ -26,4 +26,5 @@ space complexity -> O(1)
 
 pivot and partition approch 
 
-1. chose a pivot 
+1. chose a pivot -> random , median , first , last
+2. 
