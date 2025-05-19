@@ -85,3 +85,13 @@ for(int i =0; i<n; i++){
 
 
 k + 2k + 3k + 4k + .... (n-1) k = k (n (n-1)) / 2 -> O(n^2)
+
+nested loop 3 
+
+for(int i=0; i<n; i = i+k){
+    for(int j=i+1; j<=k; j++){
+        // some cnst work -> p
+    }
+}
+
+O(n / k * k * p) -> O(n)
