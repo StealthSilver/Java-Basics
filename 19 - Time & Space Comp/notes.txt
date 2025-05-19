@@ -43,3 +43,5 @@ this represents the best case time and the lower bound
 Theta Notation
 
 this represents the average time of all the inputs for the algorithm 
+
+small O , small omega, small theta represents the precision in the calculation of the values of complexities
