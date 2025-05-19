@@ -45,3 +45,9 @@ Theta Notation
 this represents the average time of all the inputs for the algorithm 
 
 small O , small omega, small theta represents the precision in the calculation of the values of complexities
+
+SPACE COMPLEXITY 
+
+memory space -> heap(objects, variables, arrays) and stack (function calls) 
+
+input space + auxiliary space (temperory variables, arrays rewuired for the algoithms)  
