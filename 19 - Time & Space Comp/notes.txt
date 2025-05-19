@@ -180,3 +180,13 @@ Power function
 
 time -> O(n)
 space -> O(n)
+
+Optimized power function 
+
+time -> O(logn)
+
+
+How to approch coding qustions 
+
+1. apply brute force 
+2. optimize it interms of time then space
