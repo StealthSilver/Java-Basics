@@ -95,3 +95,9 @@ for(int i=0; i<n; i = i+k){
 }
 
 O(n / k * k * p) -> O(n)
+
+
+Bubble sort : k(n + n-1 + n-2 ...) -> o(n^2)
+
+modified bubble sort -> worst case O(n^2)
+                        best case -> O(n)
