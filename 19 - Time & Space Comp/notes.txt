@@ -16,3 +16,5 @@ time = function(input size)
 5. Quadratic O(n^2)
 6. Exponential O(2^n)
 7. Factorial O(n!)
+
+there are two ways to calculate time complexities : experimental , theorotical
