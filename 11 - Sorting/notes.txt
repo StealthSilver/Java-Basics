@@ -27,3 +27,6 @@ SELECTION SORT (02.java)
 Pick the smallest(from the unsorted), put it at the begining.
 there are no unnecessary swaps, smallest is found and then taken to the front of the array
 
+INSERTION SORT (03.java)
+
+pick an element from the unsrted part and place it in the right position in the sorted part 
