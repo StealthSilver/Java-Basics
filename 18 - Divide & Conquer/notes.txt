@@ -31,3 +31,5 @@ pivot and partition approch
 3. calling quick sort for left part and right part, reach the base case
 
 worst case in quick sort occours when the pivot is always the smallest or the largest element
+
+third.java -> using modified binary search
