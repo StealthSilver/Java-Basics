@@ -175,3 +175,8 @@ Merge Sort
 
 two calls -> left & right and then merging
 log n calls , n work is done -> O(nlogn)
+
+Power function 
+
+time -> O(n)
+space -> O(n)
