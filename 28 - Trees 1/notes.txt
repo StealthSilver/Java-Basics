@@ -26,12 +26,12 @@ example
 
 There are three ways to traverse inside a tree
 
-via recursion
+via recursion (DFS)
 1. Preorder 
 2. Inorder 
 3. Postorder
 
-via iteration 
+via iteration (BFS)
 1. Level order
 
 PREORDER : root , left sub-tree , right-subtree 
@@ -40,4 +40,4 @@ INORDER : left sub-tree  , root , right-subtree
 
 POSTORDER : left sub-tree , right sub-tree , root
 
-LEVELORDER : data is printed according to the level of the tree
+LEVELORDER : data is printed according to the level of the tree, queue is used for this, FIFO (first in first out) is used
