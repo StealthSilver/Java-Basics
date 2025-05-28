@@ -3,3 +3,5 @@ TREES : this is a hierarchial data structure, this is not linear, the data is st
 Root 
 Branches 
 Leaves
+
+Binary Tree : this is a tree in which every node has at max two children
