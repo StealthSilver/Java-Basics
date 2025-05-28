@@ -39,3 +39,5 @@ PREORDER : root , left sub-tree , right-subtree
 INORDER : left sub-tree  , root , right-subtree
 
 POSTORDER : left sub-tree , right sub-tree , root
+
+LEVELORDER : data is printed according to the level of the tree
