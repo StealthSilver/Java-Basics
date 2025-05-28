@@ -22,3 +22,14 @@ example
 
 1 - 2 - 4 , 5 - null , null 
     3 - null , 6 - null , null
+
+
+There are three ways to traverse inside a tree
+
+via recursion
+1. Preorder 
+2. Inorder 
+3. Postorder
+
+via iteration 
+1. Level order
