@@ -1,4 +1,5 @@
 // pre-order traversal
+// time complexity -> O(n)
 
 public class second {
     static class Node {
@@ -35,7 +36,7 @@ public class second {
                 return;
             }
 
-            System.out.println(root.data + " ");
+            System.out.print(root.data + " ");
             preorder(root.left);
             preorder(root.right);
         }
