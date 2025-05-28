@@ -34,4 +34,6 @@ via recursion
 via iteration 
 1. Level order
 
-PREORDER : root , left sub-tree , right-subtree
+PREORDER : root , left sub-tree , right-subtree 
+
+INORDER : left sub-tree  , root , right-subtree
