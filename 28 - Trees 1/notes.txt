@@ -46,3 +46,6 @@ the next line will bve stored inthe queue as the null pointer
 HEIGHT OF A TREE 
 
 this is the max distance between the root and the leaf 
+it can be calculated in the unit of nodes or edges 
+
+height of tree in nodes = height of tree in edges + 1
