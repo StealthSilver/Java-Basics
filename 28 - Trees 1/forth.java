@@ -31,14 +31,15 @@ public class forth {
             return newNode;
         }
 
-        public static void inorder(Node root) {
+        public static void postorder(Node root) {
 
             if (root == null) {
                 return;
             }
-            inorder(root.left);
+            postorder(root.left);
+
+            postorder(root.right);
             System.out.print(root.data + " ");
-            inorder(root.right);
         }
 
     }
@@ -48,7 +49,7 @@ public class forth {
         BinaryTree tree = new BinaryTree();
         Node root = tree.buildTree(nodes);
 
-        tree.inorder(root);
+        tree.postorder(root);
 
     }
 
