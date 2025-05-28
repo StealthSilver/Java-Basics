@@ -1,5 +1,5 @@
 // level-order traversal
-// time complexity 
+// time complexity  - O(n)
 
 public class fifth {
 
