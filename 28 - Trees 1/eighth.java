@@ -1,5 +1,5 @@
 // sum of the nodes in a tree
-// time complexity - O()
+// time complexity - O(n)
 
 public class eighth {
     static class Node {
@@ -13,7 +13,16 @@ public class eighth {
         }
     }
 
-    public static int sum()
+    public static int sum(Node root) {
+        if (root == null) {
+            return 0;
+        }
+
+        int leftSum = sum(root.left);
+        int rightSum = sum(root.right);
+
+        return leftSum + rightSum + root.data;
+    }
 
     public static void main(String args[]) {
         Node root = new Node(1);
