@@ -41,3 +41,4 @@ INORDER : left sub-tree  , root , right-subtree
 POSTORDER : left sub-tree , right sub-tree , root
 
 LEVELORDER : data is printed according to the level of the tree, queue is used for this, FIFO (first in first out) is used
+the next line will bve stored inthe queue as the null pointer
