@@ -55,3 +55,8 @@ the height is found by recursion
 COUNT THE NODES OF A TREE 
 
 tree count  = left count + right count + 1 -> recursive
+
+SUM OF THE NODES 
+
+tree sum = leftSum + rightSum + root data -> recursive
+
