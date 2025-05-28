@@ -1,7 +1,7 @@
-// inorder traversal
-// time complexity O(n)
+// postorder traversal
+// time complexity -> O(n)
 
-public class third {
+public class forth {
     static class Node {
         int data;
         Node left;
