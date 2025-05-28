@@ -42,3 +42,7 @@ POSTORDER : left sub-tree , right sub-tree , root
 
 LEVELORDER : data is printed according to the level of the tree, queue is used for this, FIFO (first in first out) is used
 the next line will bve stored inthe queue as the null pointer
+
+HEIGHT OF A TREE 
+
+this is the max distance between the root and the leaf 
