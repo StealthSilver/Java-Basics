@@ -29,6 +29,16 @@ public class third {
             return newNode;
         }
 
+        public static void inorder(Node root) {
+
+            if (root == null) {
+                return;
+            }
+            inorder(root.left);
+            System.out.print(root.data + " ");
+            inorder(root.right);
+        }
+
     }
 
     public static void main(String args[]) {
@@ -36,5 +46,8 @@ public class third {
         BinaryTree tree = new BinaryTree();
         Node root = tree.buildTree(nodes);
 
+        tree.inorder(root);
+
     }
+
 }
