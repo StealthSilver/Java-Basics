@@ -191,4 +191,4 @@ How to approch coding qustions
 1. apply brute force 
 2. optimize it interms of time then space
 
-coding platforms can run 10^8 operations in 1s , after thet they give a time limit excedded error. 
+coding platforms can run 10^8 operations in 1s , after thet they give a time limit excedded error
