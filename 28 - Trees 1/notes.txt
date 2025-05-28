@@ -49,3 +49,9 @@ this is the max distance between the root and the leaf
 it can be calculated in the unit of nodes or edges 
 
 height of tree in nodes = height of tree in edges + 1
+
+the height is found by recursion 
+
+COUNT THE NODES OF A TREE 
+
+tree count  = left count + right count + 1 -> recursive
