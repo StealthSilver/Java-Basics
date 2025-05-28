@@ -1,7 +1,5 @@
-
 // height of a tree by using recursion 
-// time complexity - O()
-import java.util.*;
+// time complexity - O(n)
 
 public class sixth {
     static class Node {
