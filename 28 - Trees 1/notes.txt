@@ -37,3 +37,5 @@ via iteration
 PREORDER : root , left sub-tree , right-subtree 
 
 INORDER : left sub-tree  , root , right-subtree
+
+POSTORDER : left sub-tree , right sub-tree , root
