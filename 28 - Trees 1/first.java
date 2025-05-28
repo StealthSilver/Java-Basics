@@ -1,3 +1,5 @@
+// creating a tree by a preorder sequence
+// time complexity -> O(n)
 
 public class first {
 
