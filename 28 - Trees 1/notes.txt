@@ -1,1 +1,5 @@
 TREES : this is a hierarchial data structure, this is not linear, the data is stored in levels
+
+Root 
+Branches 
+Leaves
