@@ -7,6 +7,6 @@ Leaves
 Binary Tree : this is a tree in which every node has at max two children
 
 Level : this is the horizontal notation, this also shows the depth of the tree 
-Subtree : this are the smaller trees within the major tree 
+Subtree : this are the smaller trees within the major tree, for a binary tree there is left and right sub-tree
 
 * the subtrees of leaf nodes are null
