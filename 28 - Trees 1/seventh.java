@@ -1,7 +1,6 @@
 
 // counting the number of nodes in a tree
 // time complexity - O(n)
-import java.util.*;
 
 public class seventh {
     static class Node {
